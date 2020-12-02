@@ -1,10 +1,4 @@
-/////////////////////////////////////////////////
-//  Name: Tran Ngoc La (Teryl)
-//  SID: 150353175
-//  Fall 2020 JAC444NBB
-//  Workshop 9
-//  Professor Reza Khotasjeh
-////////////////////////////////////////////////
+
 
 import java.text.DecimalFormat;
 
