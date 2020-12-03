@@ -1,2 +1,2 @@
 # JAC444---Java
- Workshops I've done at Seneca College
+ Projects I've done at Seneca College
