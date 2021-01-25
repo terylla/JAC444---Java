@@ -1,2 +1,2 @@
 # JAC444---Java
-Java projects I've done at Seneca College
+Object Oriented Java projects I've done at Seneca College
